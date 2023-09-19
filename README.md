@@ -1,6 +1,6 @@
 # CalcPython
 
-This is my attempt building a calculator using python, and also practice with git branching, as i also no experience with both.
+This is my attempt building a calculator using python, and also practice with git branching, as i also have no experience with both.
 
 I'll also try to document the code as much as possible so that i may understand it better.
 
